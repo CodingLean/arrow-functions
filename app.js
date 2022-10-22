@@ -201,4 +201,4 @@ joe.scopeArrow();
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // Window
 // 3. Explain why "this" is different when an arrow function is used.
-// This refers to the object thats defined
+// This refers to the object thats defined..
